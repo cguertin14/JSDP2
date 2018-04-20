@@ -1,7 +1,8 @@
 ## Summary
 
-*  The problem with the global scope
-*  Moved to one object and namespace
-*  Understood the Module Design Pattern
-*  Understood the Module Reveal Pattern
-*  Controlled the global access completely
+*  The Singleton Design Pattern
+*  The Factory Design Pattern
+*  The Abstract Design Pattern
+*  The Builder Design Pattern
+*  The Builder Design Pattern continued
+*  The Prototype Design Pattern
