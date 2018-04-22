@@ -9,7 +9,7 @@
 	function BlueCircle() {};
 
 	BlueCircle.prototype.create = function() {
-		this.item = $('<div class="circle" style="background: blue"></div>');
+		this.item = $('<div class="circle" style="background: blue"></div>'); 
 		return this;
 	};
 	
